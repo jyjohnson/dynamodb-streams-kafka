@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk</artifactId>
-			<version>1.9.4a-preview</version>
+			<version>1.10.67</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.httpcomponents </groupId>
